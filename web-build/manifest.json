@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "proj",
+  "short_name": "proj",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
